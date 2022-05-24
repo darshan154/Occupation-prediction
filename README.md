@@ -16,3 +16,7 @@ I am Darshankumar Zalavadiya, studying in M.Tech second year at DAIICT.
 I am currently doing my M.Tech Thesis under Prof. Manish Gupta. 
 This is part of my M.Tech thesis. The given codes are of vision transformer, support vector machine, logistic regression, AdaBoost, and bagging. Also, outputs of all models are given.
 We have used two different datasets. The first dataset belongs to eastern Asian people. The second dataset belongs to Indian people.
+
+## Problem statement
+
+The problem is to predict the occupation from the facial image of a person. It is a classification problem. We have used two different datasets. The DB1 dataset belongs to eastern Asian people. This dataset includes anchor, professor, athlete, police, and doctor class. The second dataset belongs to the Indian dataset that contains anchor, athlete, professor, farmer, and doctor classes.
