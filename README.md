@@ -20,3 +20,17 @@ We have used two different datasets. The first dataset belongs to eastern Asian 
 ## Problem statement
 
 The problem is to predict the occupation from the facial image of a person. It is a classification problem. We have used two different datasets. The DB1 dataset belongs to eastern Asian people. This dataset includes anchor, professor, athlete, police, and doctor class. The second dataset belongs to the Indian dataset that contains anchor, athlete, professor, farmer, and doctor classes.
+
+## Important Links
+- [`Google Form`](https://forms.gle/7Ez75P7RuunZMQyo6/)
+
+- [`DB1 Dataset`](https://www.cs.ccu.edu.tw/~wtchu/projects/Occupation/DB1.rar)
+
+- [`Responses from google form`](https://docs.google.com/spreadsheets/d/1Ko2JvTaX7LK4HIGB9vGcKDlEXxY55Hgi4LW1HUaEF7A/edit?usp=sharing)
+- [`Permissions taken`](https://drive.google.com/drive/folders/1A6CX1vTj75L0dNY8neRoueFIW9H3VLtM?usp=sharing)
+
+## Thesis Duration
+Aug'21 - Present
+
+<br>Creator [`Darshankumar Zalavadiya`](https://github.com/darshan154/)
+
