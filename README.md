@@ -26,7 +26,7 @@ The problem is to predict the occupation from the facial image of a person. It i
 
 - [`DB1 Dataset`](https://www.cs.ccu.edu.tw/~wtchu/projects/Occupation/DB1.rar)
 
-- [`Responses from google form`](https://docs.google.com/spreadsheets/d/1Ko2JvTaX7LK4HIGB9vGcKDlEXxY55Hgi4LW1HUaEF7A/edit?usp=sharing)
+- [`Responses from google form`]: Comming soon
 - [`Permissions taken`](https://drive.google.com/drive/folders/1A6CX1vTj75L0dNY8neRoueFIW9H3VLtM?usp=sharing)
 
 ## Thesis Duration
